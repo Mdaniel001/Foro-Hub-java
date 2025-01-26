@@ -38,7 +38,7 @@ Sigue estos pasos para instalar y ejecutar la plataforma en tu entorno local:
 
 Clona el repositorio:
 
-git clone https://github.com/tu_usuario/plataforma-preguntas-respuestas.git
+git clone h[ttps://github.com/tu_usuario/plataforma-preguntas-respuestas.git](https://github.com/Mdaniel001/Foro-Hub-java.git)
 
 🖌️ Contribución
 
